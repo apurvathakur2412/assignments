@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 
-public class Cs1M {
+public class TicketApplication {
 
 	public static Object main(String[] args) {
 		// TODO Auto-generated method stub
