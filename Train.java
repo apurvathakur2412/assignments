@@ -2,7 +2,7 @@ package com.day11.mongo.demo;
 
 import java.sql.SQLException;
 
-public class Cs1 {
+public class Train {
 
 	
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
