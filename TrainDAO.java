@@ -7,7 +7,7 @@ import java.sql.Statement;
 import java.util.InvalidPropertiesFormatException;
 
 
-public class Cs1Main {
+public class TrainDAO {
 
 /*	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		// TODO Auto-generated method stub
@@ -23,12 +23,12 @@ public class Cs1Main {
         }
 		/*
 		try {
-			statement.execute(ìCREATE DATABASE train_ticketî);
-			statement.execute(ìCREATE TABLE train_ticket (f00 char(31))î);
+			statement.execute(‚ÄúCREATE DATABASE train_ticket‚Äù);
+			statement.execute(‚ÄúCREATE TABLE train_ticket (f00 char(31))‚Äù);
 			Conn.commit(); // now the database physically exists
 			} catch (SQLException exception) {
 			// we are here if database exists
-			statement.execute(ìOPEN DATABASE train_ticket î);
+			statement.execute(‚ÄúOPEN DATABASE train_ticket ‚Äù);
 			}
 		*/
 		
